@@ -1,10 +1,11 @@
 {
-  "name": "toxElectronBaisc",
-  "productName": "toxElectronBaisc",
+  "name": "toxElectronBasic",
+  "productName": "toxElectronBasic",
   "description": "basic application based on electron",
   "author": "Enrico Hoffmann <dasrick@gmail.com>",
   "version": "0.0.0",
   "main": "main.js",
   "dependencies": {
+    "electron-window-state": "^3.0.0"
   }
 }
