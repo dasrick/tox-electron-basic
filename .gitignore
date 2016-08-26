@@ -39,3 +39,6 @@ jspm_packages
 # my stuff
 # exclude stuff of electron-builder
 dist
+# build via grunt
+app/css
+app/fonts

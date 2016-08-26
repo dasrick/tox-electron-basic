@@ -3,8 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <title>le title</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
-<body>
-helau
+<body ui-view="app">
+<header ui-view="header">header</header>
+<main ui-view="main">main</main>
+<footer ui-view="footer">footer</footer>
 </body>
 </html>
